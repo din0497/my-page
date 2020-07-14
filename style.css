@@ -137,7 +137,7 @@ hr{
 @media (min-width: 760px) {
 	.center{
 		text-align: center;
-		margin-left: 4vw;
+		margin-right: 4vw;
 	}
 	.btnhead{
 		display: flex;
