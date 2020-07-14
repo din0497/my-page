@@ -129,6 +129,10 @@ hr{
 		display: flex;
 		justify-content: space-around;
 	}
+	#footer i{
+		display: inline-flex;
+		margin-left: 1vw;
+	}
 }
 @media (min-width: 760px) {
 	.center{
