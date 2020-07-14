@@ -1,0 +1,50 @@
+body{
+  border:20px solid #bdc3c7;
+  padding-left: 5px;
+  max-width: 700px;
+  width: 80%;
+  margin: 30px auto;
+}
+p {
+  border-left: 5px solid orange;
+  padding-left: 10px;
+  font-family: 'Dancing Script', cursive;
+  font-weight: bold;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-left: 10px;
+  letter-spacing: 2px;
+  font-size: 21px;
+}
+
+h1{
+  font-family:'Dancing Script', cursive;
+  width: 200px;
+  margin: auto;
+  padding-top: 30px;
+}
+img{
+  padding-top: 5px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+.post{
+  font-family: 'Pangolin', cursive;
+  margin: 20px 20px 20px 20px;
+  text-align: left;
+
+}
+.post::first-letter{
+  font-size: 2em;
+  color: green;
+}
+#date{
+  color: #3498db;
+  letter-spacing: 0.2rem;
+  font-family: 'Source Sans Pro', sans-serif;
+  text-transform: uppercase;
+  margin-left: 330px;
+  margin-top: 2%;
+}
