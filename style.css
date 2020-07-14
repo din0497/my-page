@@ -131,13 +131,12 @@ hr{
 	}
 	#footer i{
 		display: inline-flex;
-		margin-left: 1vw;
 	}
 }
 @media (min-width: 760px) {
 	.center{
 		text-align: center;
-		margin-right: 4vw;
+		margin-left: 4vw;
 	}
 	.btnhead{
 		display: flex;
@@ -169,4 +168,13 @@ hr{
 	margin-top: 25px;
 	padding-top: 50px;
 	padding-bottom: 50px;
+}
+a{
+	text-decoration: none;
+}
+#footer i{
+	margin-right: 10px;
+}
+span{
+	margin-left: 10px;
 }
